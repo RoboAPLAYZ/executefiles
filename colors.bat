@@ -19,7 +19,8 @@ set "hex=0123456789ABCDEF"
   rem apply color and clear
   color %bg%%fg%
   cls
-  echo YOU HAVE BEEN HACKED LOL
+  echo I HAVE FULL ACCESS TO YOUR COMPUTER
+  echo (seizure warning)
 
   rem ~1 second delay via ping
   ping -n 2 127.0.0.1 >nul
